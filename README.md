@@ -219,4 +219,4 @@ The Island Castaway is provided as a **complete free version** with all features
 Start your adventure today and download The Island Castaway to embark on a thrilling survival journey on a desert island!
 
 ---
-**Last updated:** 2026-10-14 06:58:07 UTC
+**Last updated:** 2026-10-14 12:42:05 UTC
